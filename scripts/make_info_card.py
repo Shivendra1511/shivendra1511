@@ -14,7 +14,7 @@ ROWS = [
     ("Now",      "PTA Intern @ Cognizant (full-time pending)"),
     ("Stack",    "Java · Spring Boot · Microservices · REST"),
     ("Also",     "Python · ML · Computer Vision"),
-    ("Projects", "cognizant-training · event-managment"),
+    ("Projects", "cognizant-training · deepFake-detection-using Resnet18-MTCNN"),
     ("Connect",  "linkedin.com/in/shivendra-pandey-403721342"),
 ]
 
