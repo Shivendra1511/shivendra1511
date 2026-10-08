@@ -10,12 +10,12 @@ STATIC = os.environ.get("STATIC") == "1"
 
 # (key, value) - edit freely
 ROWS = [
-    ("Now",        "Building things in public"),
-    ("Prev",       "Your previous role / company"),
-    ("Stack",      "Python · JavaScript · React · Node"),
-    ("Highlights", "Add 1-2 achievements here"),
-    ("Location",   "Varanasi, India"),
-    ("Site",       "yourwebsite.com"),
+    ("Role",     "Aspiring Backend Engineer"),
+    ("Now",      "PTA Intern @ Cognizant (full-time pending)"),
+    ("Stack",    "Java · Spring Boot · Microservices · REST"),
+    ("Also",     "Python · ML · Computer Vision"),
+    ("Projects", "cognizant-training · event-managment"),
+    ("Connect",  "linkedin.com/in/shivendra-pandey-403721342"),
 ]
 
 W, H = 560, 60 + 34 * len(ROWS) + 70
