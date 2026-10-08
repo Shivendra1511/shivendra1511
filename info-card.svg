@@ -15,11 +15,11 @@
 <text x="28" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#c9d1d9" xml:space="preserve" class="l" style="animation-delay:1.25s"><tspan fill="#58a6ff" font-weight="bold">Highlights</tspan><tspan fill="#8b949e">: </tspan>Add 1-2 achievements here</text>
 <text x="28" y="238" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#c9d1d9" xml:space="preserve" class="l" style="animation-delay:1.50s"><tspan fill="#58a6ff" font-weight="bold">Location</tspan><tspan fill="#8b949e">: </tspan>Varanasi, India</text>
 <text x="28" y="268" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#c9d1d9" xml:space="preserve" class="l" style="animation-delay:1.75s"><tspan fill="#58a6ff" font-weight="bold">Site</tspan><tspan fill="#8b949e">: </tspan>yourwebsite.com</text>
-<rect x="28" y="304" width="22" height="14" rx="2" fill="#f85149" class="l" style=animation-delay:2.00s/>
-<rect x="54" y="304" width="22" height="14" rx="2" fill="#d29922" class="l" style=animation-delay:2.00s/>
-<rect x="80" y="304" width="22" height="14" rx="2" fill="#3fb950" class="l" style=animation-delay:2.00s/>
-<rect x="106" y="304" width="22" height="14" rx="2" fill="#58a6ff" class="l" style=animation-delay:2.00s/>
-<rect x="132" y="304" width="22" height="14" rx="2" fill="#bc8cff" class="l" style=animation-delay:2.00s/>
-<rect x="158" y="304" width="22" height="14" rx="2" fill="#39c5cf" class="l" style=animation-delay:2.00s/>
-<rect x="184" y="304" width="22" height="14" rx="2" fill="#c9d1d9" class="l" style=animation-delay:2.00s/>
+<rect x="28" y="304" width="22" height="14" rx="2" fill="#f85149" class="l" style="animation-delay:2.00s"/>
+<rect x="54" y="304" width="22" height="14" rx="2" fill="#d29922" class="l" style="animation-delay:2.00s"/>
+<rect x="80" y="304" width="22" height="14" rx="2" fill="#3fb950" class="l" style="animation-delay:2.00s"/>
+<rect x="106" y="304" width="22" height="14" rx="2" fill="#58a6ff" class="l" style="animation-delay:2.00s"/>
+<rect x="132" y="304" width="22" height="14" rx="2" fill="#bc8cff" class="l" style="animation-delay:2.00s"/>
+<rect x="158" y="304" width="22" height="14" rx="2" fill="#39c5cf" class="l" style="animation-delay:2.00s"/>
+<rect x="184" y="304" width="22" height="14" rx="2" fill="#c9d1d9" class="l" style="animation-delay:2.00s"/>
 </svg>

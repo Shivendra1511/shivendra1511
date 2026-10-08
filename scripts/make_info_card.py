@@ -54,7 +54,7 @@ def build():
     sw = ["#f85149", "#d29922", "#3fb950", "#58a6ff", "#bc8cff", "#39c5cf", "#c9d1d9"]
     for i, c in enumerate(sw):
         o.append(f'<rect x="{28 + i * 26}" y="{y + 6}" width="22" height="14" rx="2" fill="{c}"{cls}'
-                 f'{"" if STATIC else f" style=animation-delay:{d:.2f}s"}/>')
+                 f'{"" if STATIC else f" style=\"animation-delay:{d:.2f}s\""}/>')
     o.append("</svg>")
     return "\n".join(o)
 
