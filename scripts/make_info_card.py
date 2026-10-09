@@ -10,7 +10,7 @@ STATIC = os.environ.get("STATIC") == "1"
 
 # (key, value) - edit freely
 ROWS = [
-    ("Role",     "Aspiring Backend Engineer"),
+    ("Role",     "Backend Engineer"),
     ("Now",      "PTA Intern @ Cognizant (full-time pending)"),
     ("Stack",    "Java · Spring Boot · Microservices · REST"),
     ("Also",     "Python · ML · Computer Vision"),
