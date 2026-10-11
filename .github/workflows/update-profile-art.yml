@@ -21,7 +21,9 @@ jobs:
       - run: pip install requests beautifulsoup4
       - run: python scripts/fetch_contributions.py
       - run: python scripts/render_heatmap_svg.py
+      - run: python scripts/gen_chart.py
+      - run: python scripts/gen_banner.py
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg"
+          file_pattern: "data/contributions.json contrib-heatmap.svg banner.svg activity-chart.svg"
