@@ -1,7 +1,6 @@
 <div align="center">
 
-<h3><code>shivendra@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" />
+<img src="./banner.svg" width="860" />
 
 <br><br>
 
@@ -12,5 +11,15 @@
     <td valign="top"><img src="./info-card.svg?v=6" width="490" /></td>
   </tr>
 </table>
+
+<br>
+
+<h3><code>shivendra@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
+
+<br><br>
+
+<h3><code>shivendra@github ~ $ ./activity.sh --monthly</code></h3>
+<img src="./activity-chart.svg" width="860" />
 
 </div>
