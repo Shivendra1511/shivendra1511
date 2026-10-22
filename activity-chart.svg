@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="240" viewBox="0 0 860 240">
 <rect width="860" height="240" rx="10" fill="#0d1117" stroke="#30363d"/>
 <text x="50" y="30" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#c9d1d9">monthly activity</text>
-<text x="830" y="30" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#8b949e">peak 70</text>
+<text x="830" y="30" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#8b949e">peak 71</text>
 <line x1="50" y1="190" x2="830" y2="190" stroke="#30363d"/>
 <rect x="64.6" y="190" width="35.8" height="0" rx="3" fill="#161b22"><animate attributeName="height" from="0" to="2.0" dur=".6s" begin="0.00s" fill="freeze"/><animate attributeName="y" from="190" to="188.0" dur=".6s" begin="0.00s" fill="freeze"/><title>0 in Nov 2025</title></rect>
 <text x="82.5" y="182.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c9d1d9" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="0.60s" fill="freeze"/>0</text>
@@ -30,13 +30,13 @@
 <rect x="584.6" y="190" width="35.8" height="0" rx="3" fill="#26a641"><animate attributeName="height" from="0" to="2.0" dur=".6s" begin="0.96s" fill="freeze"/><animate attributeName="y" from="190" to="188.0" dur=".6s" begin="0.96s" fill="freeze"/><title>1 in Jul 2026</title></rect>
 <text x="602.5" y="182.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c9d1d9" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="1.56s" fill="freeze"/>1</text>
 <text x="602.5" y="208" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8b949e">Jul</text>
-<rect x="649.6" y="190" width="35.8" height="0" rx="3" fill="#26a641"><animate attributeName="height" from="0" to="7.4" dur=".6s" begin="1.08s" fill="freeze"/><animate attributeName="y" from="190" to="182.6" dur=".6s" begin="1.08s" fill="freeze"/><title>4 in Aug 2026</title></rect>
-<text x="667.5" y="176.6" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c9d1d9" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="1.68s" fill="freeze"/>4</text>
+<rect x="649.6" y="190" width="35.8" height="0" rx="3" fill="#26a641"><animate attributeName="height" from="0" to="7.3" dur=".6s" begin="1.08s" fill="freeze"/><animate attributeName="y" from="190" to="182.7" dur=".6s" begin="1.08s" fill="freeze"/><title>4 in Aug 2026</title></rect>
+<text x="667.5" y="176.7" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c9d1d9" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="1.68s" fill="freeze"/>4</text>
 <text x="667.5" y="208" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8b949e">Aug</text>
-<rect x="714.6" y="190" width="35.8" height="0" rx="3" fill="#26a641"><animate attributeName="height" from="0" to="14.9" dur=".6s" begin="1.20s" fill="freeze"/><animate attributeName="y" from="190" to="175.1" dur=".6s" begin="1.20s" fill="freeze"/><title>8 in Sep 2026</title></rect>
-<text x="732.5" y="169.1" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c9d1d9" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="1.80s" fill="freeze"/>8</text>
+<rect x="714.6" y="190" width="35.8" height="0" rx="3" fill="#26a641"><animate attributeName="height" from="0" to="14.6" dur=".6s" begin="1.20s" fill="freeze"/><animate attributeName="y" from="190" to="175.4" dur=".6s" begin="1.20s" fill="freeze"/><title>8 in Sep 2026</title></rect>
+<text x="732.5" y="169.4" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c9d1d9" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="1.80s" fill="freeze"/>8</text>
 <text x="732.5" y="208" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8b949e">Sep</text>
-<rect x="779.6" y="190" width="35.8" height="0" rx="3" fill="#69f0a0"><animate attributeName="height" from="0" to="130.0" dur=".6s" begin="1.32s" fill="freeze"/><animate attributeName="y" from="190" to="60.0" dur=".6s" begin="1.32s" fill="freeze"/><title>70 in Oct 2026</title></rect>
-<text x="797.5" y="54.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c9d1d9" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="1.92s" fill="freeze"/>70</text>
+<rect x="779.6" y="190" width="35.8" height="0" rx="3" fill="#69f0a0"><animate attributeName="height" from="0" to="130.0" dur=".6s" begin="1.32s" fill="freeze"/><animate attributeName="y" from="190" to="60.0" dur=".6s" begin="1.32s" fill="freeze"/><title>71 in Oct 2026</title></rect>
+<text x="797.5" y="54.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c9d1d9" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="1.92s" fill="freeze"/>71</text>
 <text x="797.5" y="208" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8b949e">Oct</text>
 </svg>
