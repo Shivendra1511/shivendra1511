@@ -36,7 +36,7 @@
 <rect x="714.6" y="190" width="35.8" height="0" rx="3" fill="#69f0a0"><animate attributeName="height" from="0" to="130.0" dur=".6s" begin="1.20s" fill="freeze"/><animate attributeName="y" from="190" to="60.0" dur=".6s" begin="1.20s" fill="freeze"/><title>93 in Oct 2026</title></rect>
 <text x="732.5" y="54.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c9d1d9" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="1.80s" fill="freeze"/>93</text>
 <text x="732.5" y="208" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8b949e">Oct</text>
-<rect x="779.6" y="190" width="35.8" height="0" rx="3" fill="#26a641"><animate attributeName="height" from="0" to="12.6" dur=".6s" begin="1.32s" fill="freeze"/><animate attributeName="y" from="190" to="177.4" dur=".6s" begin="1.32s" fill="freeze"/><title>9 in Nov 2026</title></rect>
-<text x="797.5" y="171.4" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c9d1d9" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="1.92s" fill="freeze"/>9</text>
+<rect x="779.6" y="190" width="35.8" height="0" rx="3" fill="#26a641"><animate attributeName="height" from="0" to="14.0" dur=".6s" begin="1.32s" fill="freeze"/><animate attributeName="y" from="190" to="176.0" dur=".6s" begin="1.32s" fill="freeze"/><title>10 in Nov 2026</title></rect>
+<text x="797.5" y="170.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c9d1d9" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="1.92s" fill="freeze"/>10</text>
 <text x="797.5" y="208" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8b949e">Nov</text>
 </svg>
